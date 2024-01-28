@@ -14,4 +14,7 @@
 - C#
 - Visual Studio
 - Github
+
+## 게임 다운로드
+우측의 Releases에서 다운 받을 수 있다.
 ### [시연영상](https://youtu.be/5fpw6a2bvnI)
