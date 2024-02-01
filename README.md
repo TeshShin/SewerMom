@@ -1,5 +1,7 @@
 # SewerMom
 
+![썸네일](https://github.com/TeshShin/SewerMom/assets/54969187/35b8a949-bb37-4dcc-ba37-a4a1443400cb)
+
 ## 🗓️개발한 날짜
 
 2023년 6월
@@ -17,6 +19,7 @@
 
 ## 게임 다운로드
 우측의 Releases에서 다운 받을 수 있다.
+
 
 ## 조작법
 - 움직이기 : 키보드 방향키 (← ↑ → ↓)
