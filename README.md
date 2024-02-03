@@ -1,6 +1,9 @@
 # SewerMom
-
+<div align="center"> 
+  
 ![썸네일](https://github.com/TeshShin/SewerMom/assets/54969187/35b8a949-bb37-4dcc-ba37-a4a1443400cb)
+
+</div>
 
 ## 🗓️개발한 날짜
 
