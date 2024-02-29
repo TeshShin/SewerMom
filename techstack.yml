@@ -1,0 +1,55 @@
+repo_name: TeshShin/SewerMom
+report_id: 58885ec8aa0c292a6047b5b212bb5fd6
+version: 0.1
+repo_type: Public
+timestamp: '2024-02-29T18:57:43+00:00'
+requested_by: TeshShin
+provider: github
+branch: main
+detected_tools_count: 4
+tools:
+- name: C#
+  description: Simple, general-purpose, object-oriented programming language for the
+    .NET platform
+  website_url: http://csharp.net
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1015/1200px-C_Sharp_wordmark.svg.png
+  detection_source_url: https://github.com/TeshShin/SewerMom
+  detection_source: Repo Metadata
+- name: pgvector
+  description: Open-source vector similarity search for Postgres
+  website_url: https://github.com/pgvector/pgvector/
+  open_source: false
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Database Tools
+  image_url: https://img.stackshare.io/service/109221/default_b888cdf5617d936aa6aacf130911906955508639.png
+  detection_source_url: https://github.com/TeshShin/SewerMom/blob/main/Assets/Resources/Text/Text.txt
+  detection_source: Assets/Resources/Text/Text.txt
+  last_updated_by: shintom1222
+  last_updated_on: 2023-06-28 18:29:10.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/TeshShin/SewerMom
+  detection_source: Repo Metadata
+- name: LangChain
+  description: Build AI apps with LLMs through composability
+  website_url: https://github.com/hwchase17/langchain
+  open_source: true
+  hosted_saas: false
+  category: Communications
+  sub_category: Large Language Model Tools
+  image_url: https://img.stackshare.io/service/48790/default_5b6c6b73f1ff3775c85d2a1ba954cb87e30cbf13.jpg
+  detection_source_url: https://github.com/TeshShin/SewerMom/blob/main/Assets/Resources/Text/Text.txt
+  detection_source: Assets/Resources/Text/Text.txt
+  last_updated_by: shintom1222
+  last_updated_on: 2023-06-28 18:29:10.000000000 Z
